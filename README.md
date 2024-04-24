@@ -8,11 +8,11 @@
 -Feel free to contact whenever for anything. I'm fairly new to programming and eager to learn, so id be happy to help out/join in on projects.
 -Languages:
       Proficient:
-        Python, english
+        Python, English.
       Learning:
-        JavaScript, GDscript, GreyScript
+        JavaScript, GDscript, GreyScript.
       I kinda know a bit about:
-        C#, HTML, French
+        C#, HTML, French.
 <!---
 Unlisted27/Unlisted27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
